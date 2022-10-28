@@ -5,6 +5,8 @@ import {BsDot} from "react-icons/bs"
 import {AiFillCheckCircle} from "react-icons/ai"
 import { Link, useNavigate } from "react-router-dom";
 import { GrLinkPrevious } from "react-icons/gr";
+import {teams as team_Data} from "../data"
+
 
 const Confirmation = ({ stepFunction, teamData, members }) => {
   const [error, setError] = useState(false)
@@ -22,9 +24,9 @@ const Confirmation = ({ stepFunction, teamData, members }) => {
       return 
     }
     // handle register api call
-
-    // navigate to table
-    //navigate("/") 
+    team_Data.push(data)
+     //navigate to table
+    navigate("/") 
   }
 
   const handleContinue = (e, s) => {

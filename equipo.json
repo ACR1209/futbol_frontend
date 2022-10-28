@@ -1,0 +1,74 @@
+[
+  {
+    "categorycode": "81c2c39e-797b-42d0-b762-d8f4b3c94686",
+    "teamcode": "5e1018de-084a-44a0-8a6b-ec0985335c41",
+    "teamname": "Chancla Suave",
+    "teamcoach": "Theo Rosero"
+  },
+  {
+    "categorycode": "81c2c39e-797b-42d0-b762-d8f4b3c94686",
+    "teamcode": "c63567f2-2e91-4bf1-816c-2f4a98f17f1e",
+    "teamname": "Emelec",
+    "teamcoach": "Sebastian Zapata"
+  },
+  {
+    "categorycode": "81c2c39e-797b-42d0-b762-d8f4b3c94686",
+    "teamcode": "6f2308dd-e13d-480c-9e97-cf82e3d9600d",
+    "teamname": "Liga de Quito",
+    "teamcoach": "Dayse Poma"
+  },
+  {
+    "categorycode": "81c2c39e-797b-42d0-b762-d8f4b3c94686",
+    "teamcode": "9091157d-083b-442b-a190-ea356a2e1b61",
+    "teamname": "Deportivo Quito",
+    "teamcoach": "Edison Lascano"
+  },
+  {
+    "categorycode": "81c2c39e-797b-42d0-b762-d8f4b3c94686",
+    "teamcode": "eaa78906-5ce7-4c09-b52e-910e48f79913",
+    "teamname": "Aucas",
+    "teamcoach": "Chichipato"
+  },
+  {
+    "categorycode": "5ea8a65f-b668-4c6b-834c-b5590ffe6bfd",
+    "teamcode": "d3df8b72-163c-4821-b69b-4ffa6aa92124",
+    "teamname": "Macara",
+    "teamcoach": "Andres Coronel"
+  },
+  {
+    "categorycode": "5ea8a65f-b668-4c6b-834c-b5590ffe6bfd",
+    "teamcode": "0a025b0a-e57c-4c42-974b-235aa6456d4a",
+    "teamname": "Real Madrid",
+    "teamcoach": "Ismael Cedillo"
+  },
+  {
+    "categorycode": "5ea8a65f-b668-4c6b-834c-b5590ffe6bfd",
+    "teamcode": "a8383187-2c6e-4129-a37f-5bc932b9a796",
+    "teamname": "Delfines rosas",
+    "teamcoach": "Edison Lascano"
+  },
+  {
+    "categorycode": "5ea8a65f-b668-4c6b-834c-b5590ffe6bfd",
+    "teamcode": "d6ad58d8-1ae0-460b-a4b2-9592af2ede74",
+    "teamname": "Bayer",
+    "teamcoach": "Angel Rea"
+  },
+  {
+    "categorycode": "5ea8a65f-b668-4c6b-834c-b5590ffe6bfd",
+    "teamcode": "dca728b4-b150-45a0-83ab-3f2851d80352",
+    "teamname": "Chancklaso",
+    "teamcoach": "Chichipato"
+  },
+  {
+    "categorycode": "e9a0bc81-b7c9-475e-8f98-dc5bfa3e00b1",
+    "teamcode": "c9a90638-c0a8-42f8-b49f-50f9aeab5221",
+    "teamname": "Chancla Fria",
+    "teamcoach": "Dayse Poma"
+  },
+  {
+    "categorycode": "5ea8a65f-b668-4c6b-834c-b5590ffe6bfd",
+    "teamcode": "f92978cb-908e-4250-a8ca-def5033a95ce",
+    "teamname": "Kurare",
+    "teamcoach": "Marcelo Malte"
+  }
+]

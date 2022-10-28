@@ -1,0 +1,38 @@
+[
+  {
+    "categorycode": "81c2c39e-797b-42d0-b762-d8f4b3c94686",
+    "categoryname": "Juvenil",
+    "categoryminage": 16,
+    "categorymaxage": 18
+  },
+  {
+    "categorycode": "e9a0bc81-b7c9-475e-8f98-dc5bfa3e00b1",
+    "categoryname": "Cadetes",
+    "categoryminage": 14,
+    "categorymaxage": 15
+  },
+  {
+    "categorycode": "e3809b1f-3fa2-418a-bd4d-254c28004216",
+    "categoryname": "Infantiles",
+    "categoryminage": 12,
+    "categorymaxage": 13
+  },
+  {
+    "categorycode": "9226603e-b7e9-416a-a1e1-896e32ac1484",
+    "categoryname": "Alevines",
+    "categoryminage": 10,
+    "categorymaxage": 11
+  },
+  {
+    "categorycode": "9cde1346-ac05-44bf-b357-5f89410b8606",
+    "categoryname": "Benjamines",
+    "categoryminage": 8,
+    "categorymaxage": 9
+  },
+  {
+    "categorycode": "5ea8a65f-b668-4c6b-834c-b5590ffe6bfd",
+    "categoryname": "Absoluta",
+    "categoryminage": 19,
+    "categorymaxage": 50
+  }
+]

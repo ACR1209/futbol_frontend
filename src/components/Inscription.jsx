@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import TeamDetails from './TeamDetails'
 import MembersDetails from './MembersDetails'
 import Confirmation from './Confirmation'
-import Success from './Success'
+//import Success from './Success'
 
 /**
  * Component for the teams registration.
@@ -95,7 +95,7 @@ const Inscription = () => {
       )
     case 4:
       return(
-        <Success/>
+        <h1/>
       )
   
     default:
