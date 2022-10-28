@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import Inscription from "./components/Inscription";
+import { Routes, Route } from 'react-router-dom'
+import ShowTeams from "./components/ShowTeams";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="w-full min-h-full flex justify-center items-center bg-gray-300" style={{minHeight: '100vh'}}>
+      <Routes>
+        <Route path="/register-team" element={<Inscription/>} />  
+        <Route exact path="/" element={<ShowTeams />} />  
+      </Routes>      
     </div>
   );
 }
